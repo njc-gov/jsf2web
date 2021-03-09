@@ -23,7 +23,7 @@
     <site>
       <id>site</id>
       <name>project website</name>
-      <url>scp://local.company.com/websites/project.company.com/</url>
+      <url>https://github.com/njc-gov/jsf2web.git</url>
     </site>
   </distributionManagement>
 
