@@ -22,7 +22,7 @@
   <distributionManagement>
     <site>
       <id>site</id>
-      <name>project website</name>
+      <name>Project SCM Repo</name>
       <url>https://github.com/njc-gov/jsf2web.git</url>
     </site>
   </distributionManagement>
